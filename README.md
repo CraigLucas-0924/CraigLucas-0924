@@ -1,12 +1,10 @@
 # <a href="https://www.linkedin.com/in/craig-lucas-jr-2a6352229/">Craig Lucas</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm actively developing my skills in cybersecurity by taking on hands-on projects that tackle real-world challenges. From vulnerability management to threat detection, these projects help me deepen my understanding of the field and sharpen my ability to solve complex problems. Feel free to explore my work and see how I’m growing in this dynamic and critical area.
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CraigLucas-0924/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
