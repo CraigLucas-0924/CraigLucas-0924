@@ -8,7 +8,7 @@ I'm actively developing my skills in cybersecurity by taking on hands-on project
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- [Threat Hunting Scenario – Tor Activity](https://github.com/CraigLucas-0924/threat-hunting-scenario-tor)
 
 <hr/>
 
