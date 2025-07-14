@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/craig-lucas-jr-2a6352229/">Craig Lucas</a>'s Cybersecurity & IT Project Portfolio 🔐
 
-Security+ certified and focused on federal cybersecurity, I build hands-on projects that reflect real-world challenges in vulnerability management, threat detection, and compliance documentation. My work demonstrates technical skill, problem-solving, and familiarity with frameworks like RMF and NIST 800-53. Explore the projects below to see my experience in vulnerability remediation, security operations, and policy implementation.
+Security+ certified and driven by hands-on learning, I build projects that reflect real-world challenges in vulnerability management, threat detection, and compliance documentation. My work demonstrates technical skill, problem-solving ability, and knowledge of cybersecurity frameworks like RMF and NIST 800-53. Explore the projects below to see my experience in remediation scripting, security operations, and policy implementation.
+
+---
 
 ## ⚠️ Vulnerability Management & Compliance
 
@@ -8,12 +10,30 @@ Security+ certified and focused on federal cybersecurity, I build hands-on proje
   Tenable/Nessus-based scanning and automated remediation using PowerShell and Bash scripting.
 
 - **[RMF SSP & POA&M Demo](https://github.com/CraigLucas-0924/RMF-SSP-POA&M-Demo)**  
-  Formal System Security Plan and POA&M aligned with NIST 800-53 Moderate controls and DoD RMF guidelines.
+  Formal System Security Plan and POA&M aligned with NIST 800-53 Moderate controls and RMF guidelines.
+
+---
 
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting – Tor Activity](https://github.com/CraigLucas-0924/threat-hunting-scenario-tor)**  
-  Azure-based detection and investigation of anomalous behavior using Defender for Endpoint and KQL.
+  Simulated detection of unauthorized Tor browser activity using Defender for Endpoint telemetry and KQL queries.
+
+---
+
+## 🧮 Python Projects
+
+- **[Employee Pay Calculator – Final Project](https://github.com/CraigLucas-0924/employee-pay-calculator)**  
+  Python-based CLI tool with input validation, statistical analysis (mean, median, mode, std dev), and clean table formatting. Demonstrates OOP design, data handling, and CLI UX.
+
+---
+
+## 📌 Tools & Skills
+
+- **Languages:** Python, PowerShell, Bash  
+- **Platforms:** Tenable Nessus, Microsoft Defender, GitHub  
+- **Skills:** Vulnerability Management, Threat Hunting, RMF/NIST Compliance, Automation, Input Validation, CLI UX
+
 
 ---
 
